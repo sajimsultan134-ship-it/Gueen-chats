@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gueen Chats</string>
+    <string name="app_subtitle">Sajim Chat • Real-time Messaging</string>
+    <string name="tab_chats">Chats</string>
+    <string name="tab_status">Status</string>
+    <string name="tab_calls">Calls</string>
+    <string name="tab_settings">Settings</string>
+    <string name="new_chat">New Chat</string>
+    <string name="new_group">New Group</string>
+    <string name="search_hint">Search chats, messages, or contacts...</string>
+    <string name="online">online</string>
+    <string name="typing">typing…</string>
+    <string name="recording_audio">Recording audio…</string>
+    <string name="channel_messages_name">Chat Messages</string>
+    <string name="channel_messages_desc">Notifications for incoming chats and messages</string>
+    <string name="default_web_client_id">123456789012-samplewebclientid.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Gueen Chats",
+  "description": "Modern real-time messaging application inspired by WhatsApp with voice notes, media sharing, calling, groups, and status updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

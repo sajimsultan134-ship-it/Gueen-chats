@@ -1,0 +1,30 @@
+{
+  "_comment": "To connect real-time Firebase, replace this file with the actual google-services.json downloaded from Firebase Console for package com.aistudio.gueenchats.sajim and place it at /app/google-services.json",
+  "project_info": {
+    "project_number": "123456789012",
+    "project_id": "sajim-chat-gueen",
+    "storage_bucket": "sajim-chat-gueen.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:abcdef1234567890",
+        "android_client_info": {
+          "package_name": "com.aistudio.gueenchats.sajim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSySampleKeyPlaceholder"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
